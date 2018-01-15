@@ -1,0 +1,1 @@
+<div align="center" style="width: 100%; height: 130px; border-bottom: 1px solid #CCC; vertical-align: middle; box-shadow: 5px 5px 2px #CCC; background-image: url('img/top.jpg'); background-position: center;"></div>
